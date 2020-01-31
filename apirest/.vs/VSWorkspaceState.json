@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\apirest",
+    "\\apirest\\apirest",
+    "\\apirest\\prediction",
+    "\\apirest\\prediction\\migrations",
+    "\\apirest\\prediction\\migrations\\__pycache__"
+  ],
+  "SelectedNode": "\\apirest\\prediction\\migrations\\__pycache__\\__init__.cpython-37.pyc",
+  "PreviewInSolutionExplorer": false
+}
